@@ -47,8 +47,8 @@ Rehabilitation science and assistive robotics. I hold a national physical therap
 
 <div align="center">
 
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D97706?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ptengineerlin@gmail.com"><img src="https://img.shields.io/badge/Email-D97706?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/kcl-tw"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="https://scholar.google.com"><img src="https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" /></a>
 
 <br/><br/>

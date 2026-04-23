@@ -9,6 +9,7 @@
 <br/>
 
 M.S. · National Taiwan University · BioMechatronics Engineering
+<br/>
 B.S. · National Taiwan University · Physical Therapy / BioMechatronics Engineering
 
 </div>
